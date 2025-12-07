@@ -18,4 +18,3 @@ tolerations:
     effect: NoSchedule
 
 podName: perf-audit-origin
-namespace: default
